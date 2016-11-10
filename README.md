@@ -10,7 +10,7 @@ Suporte Atual:
 - Oracle
 - MongoDB - pendente
 
-![](https://github.com/rjcfj/DBlobTool/blob/master/System.PNG)
+![](https://github.com/rjcfj/DbBlobTool/blob/master/System.PNG)
 
 Versões futuras: 
 Suporte ao MongoDB 
